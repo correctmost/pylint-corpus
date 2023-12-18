@@ -1,0 +1,10 @@
+[MAIN]
+jobs=1
+
+[MESSAGES CONTROL]
+disable=all
+enable=E0401
+
+[REPORTS]
+reports=no
+score=no
